@@ -1,7 +1,10 @@
 # learning-git
 ##Github practice with amigoscode.
+### Random picture
 
-![a5201b52-7fa9-4d70-84ea-6f8783f02429](https://user-images.githubusercontent.com/90991919/176872622-ea4dd399-405d-4c1f-8ef0-5ea9367d627f.png)
+https://twitter.com/dog_rates/status/741067306818797568
+![image](https://user-images.githubusercontent.com/90991919/176872919-63e81d9c-168e-4c96-9a66-fd84e8b1273d.png)
+
 
 
 
